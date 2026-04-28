@@ -1,28 +1,38 @@
-
+﻿
+using EjercicioM.Application;
 using EjercicioM.Infrastructure;
 using Microsoft.EntityFrameworkCore;
-using EjercicioM.Application;
+using EjercicioM.GraphQL;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
+// DbContext
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(
         builder.Configuration.GetConnectionString("DefaultConnection")));
 
-
-builder.Services.AddControllers();
+// Servicios
 builder.Services.AddScoped<IClienteService, ClienteService>();
 builder.Services.AddScoped<IProductoService, ProductoService>();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+// REST Controllers ✅
+builder.Services.AddControllers();
+
+// Swagger ✅
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// GraphQL ✅
+builder.Services
+    .AddGraphQLServer()
+    .AddQueryType<Query>()
+    .AddMutationType<Mutation>()
+    .AddFiltering();
+
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -30,9 +40,12 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
 
+// REST ✅
 app.MapControllers();
+
+// GraphQL ✅
+app.MapGraphQL();
 
 app.Run();
