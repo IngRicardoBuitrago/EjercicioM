@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\controllers\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\controllers\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\controllers\\classproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\controllers\\classproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\graphql\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|c:\\users\\mibuitrago\\source\\repos\\ejerciciom\\ejerciciom\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C695F1D-2023-4D86-9823-88EDC3F7AB09}|EjercicioM\\EjercicioM.csproj|solutionrelative:ejerciciom\\graphql\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +51,116 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "EjercicioM\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Models\\Cliente.cs",
+              "RelativeToolTip": "EjercicioM\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T14:26:33.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassProducto.cs",
+              "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Controllers\\ClassProducto.cs",
+              "RelativeDocumentMoniker": "EjercicioM\\Controllers\\ClassProducto.cs",
+              "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Controllers\\ClassProducto.cs",
+              "RelativeToolTip": "EjercicioM\\Controllers\\ClassProducto.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T16:49:33.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Controllers\\Class.cs",
+              "RelativeDocumentMoniker": "EjercicioM\\Controllers\\Class.cs",
+              "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Controllers\\Class.cs",
+              "RelativeToolTip": "EjercicioM\\Controllers\\Class.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:24:20.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "EjercicioM\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\appsettings.Development.json",
+              "RelativeToolTip": "EjercicioM\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-22T15:08:32.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\appsettings.json",
+              "RelativeDocumentMoniker": "EjercicioM\\appsettings.json",
+              "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\appsettings.json",
+              "RelativeToolTip": "EjercicioM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-22T14:54:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Query.cs",
               "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\GraphQL\\Query.cs",
               "RelativeDocumentMoniker": "EjercicioM\\GraphQL\\Query.cs",
               "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\GraphQL\\Query.cs",
               "RelativeToolTip": "EjercicioM\\GraphQL\\Query.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T21:05:51.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Infrastructure\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EjercicioM\\Infrastructure\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Infrastructure\\ApplicationDbContext.cs",
               "RelativeToolTip": "EjercicioM\\Infrastructure\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T20:31:03.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Program.cs",
               "RelativeDocumentMoniker": "EjercicioM\\Program.cs",
               "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Program.cs",
               "RelativeToolTip": "EjercicioM\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T20:09:24.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Mutation.cs",
-              "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\GraphQL\\Mutation.cs",
-              "RelativeDocumentMoniker": "EjercicioM\\GraphQL\\Mutation.cs",
-              "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\GraphQL\\Mutation.cs",
-              "RelativeToolTip": "EjercicioM\\GraphQL\\Mutation.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwB8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T19:20:51.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Domain\\Cliente.cs",
               "RelativeDocumentMoniker": "EjercicioM\\Domain\\Cliente.cs",
               "ToolTip": "C:\\Users\\mibuitrago\\source\\repos\\EjercicioM\\EjercicioM\\Domain\\Cliente.cs",
               "RelativeToolTip": "EjercicioM\\Domain\\Cliente.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T21:54:06.547Z",
               "EditorCaption": ""
